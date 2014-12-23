@@ -1,0 +1,13 @@
+========================================
+The following are ineligible tutors
+========================================
+Minjae '' Wee
+Email: (mwee@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Madeline 'Maddy' Chan
+Email: (madelic1@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
