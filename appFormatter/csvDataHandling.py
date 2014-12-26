@@ -29,7 +29,7 @@ from collections import namedtuple
    Student namedtuple: The definition of a student namedtuple is defined below. If expanded/condensed, please 
                        keep in mind this structure is used extensively in both this file and in csvDataHandling.py
    =================='''
-Student = namedtuple('Student', 'name email id major gpa classes firstTime responses')
+Student = namedtuple('Student', 'name email id major gpa classes info firstTime responses')
 
 
 '''==========================================
@@ -54,6 +54,17 @@ def buildStudentClassInterest(studentDict, studentList): #EDIT THIS FUNCTION WHE
         increment += 1
     return gradeDict
 
+def buildStudentAdditionalInfo(studentList):
+    result = ""
+    for i in range(18,39,4):
+        if studentList[i] != "":
+            result += studentList[i] + "\n"
+    if studentList[39] != "":
+        result += studentList[39] + "\n"
+    if result == "":
+        result = "Nothing listed"
+    return result
+
 
 '''==========================================
     buildStudent -  Parameter(s):  dictionary 'studentDict', represents a single student's information in dictionary form
@@ -68,12 +79,13 @@ def buildStudent(studentDict, studentList):
     ID = studentDict["Student ID Number"]
     gpa = "Overall GPA: {}\nICS GPA: {}\n".format(studentDict["Overall GPA"], studentDict["ICS GPA"])
     classes = buildStudentClassInterest(studentDict, studentList)
+    info = buildStudentAdditionalInfo(studentList)
     firstTime = determineFirstTime(studentDict)
     if firstTime == True:
         responses = getResponses(studentList)
     else:
         responses = []
-    return Student(name, email, ID, major, gpa, classes, firstTime, responses)
+    return Student(name, email, ID, major, gpa, classes, info, firstTime, responses)
 
 '''==========================================
     buildStudent -  Parameter(s):  dictionary 'studentDict', represents a single student's information in dictionary form

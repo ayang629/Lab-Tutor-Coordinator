@@ -99,6 +99,7 @@ def buildReturningStudentString(student):
             result += "\t\t{}\n".format(timeList)
         else:
             result += "\t\t{}\n".format(value[1])
+    result += "Additional information listed:\n{}\n".format(student.info)
     return result
 
 
@@ -109,7 +110,7 @@ def buildReturningStudentString(student):
    ==========================================='''      
 def buildFirstTimeStudentString(student):
     result = buildReturningStudentString(student)
-    result += "Prior Experiences?\n{}\nDescribe a moment...\n{}\nHow is a tutor different from a classmate?\n{}\n".format(
+    result += "\nPrior Experiences?\n{}\nDescribe a moment...\n{}\nHow is a tutor different from a classmate?\n{}\n".format(
                condenseFRQ(student.responses[0]), condenseFRQ(student.responses[1]), condenseFRQ(student.responses[2]))
     return result   
 
