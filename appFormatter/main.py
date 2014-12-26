@@ -25,8 +25,8 @@ if __name__ == '__main__':
     #Enter the name of the CSV file you want to process. Do not add any specific path changes.
     rawDataDict = csvIO.readCSVFileToDict('test.csv')# <------ CHANGE FILE NAME HERE
     rawDataList = csvIO.readCSVFileToList('test.csv')# <------ AND HERE
-    
     print("Successfully read input file into raw data...")
+    
     outputFileTag = input("Enter your desired output file tag (Warning - Entering a name that already exists will overwrite the file!): ")
     
     #Gather and join ineligible tutors

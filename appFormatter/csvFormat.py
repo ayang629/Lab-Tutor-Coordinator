@@ -113,5 +113,4 @@ def buildFirstTimeStudentString(student):
     result += "\nPrior Experiences?\n{}\nDescribe a moment...\n{}\nHow is a tutor different from a classmate?\n{}\n".format(
                condenseFRQ(student.responses[0]), condenseFRQ(student.responses[1]), condenseFRQ(student.responses[2]))
     return result   
-
     

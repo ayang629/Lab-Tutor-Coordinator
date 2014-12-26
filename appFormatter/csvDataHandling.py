@@ -10,6 +10,7 @@ Created on Dec 21, 2014
     Functions Defined:
         Helper:
             buildStudentClassInterest(studentDict, studentList)
+            buildStudentAdditionalInfo(studentList)
             buildStudent(studentDict, studentList)
             determineFirstTime(studentDict)
             getResponses(studentList)
@@ -54,6 +55,12 @@ def buildStudentClassInterest(studentDict, studentList): #EDIT THIS FUNCTION WHE
         increment += 1
     return gradeDict
 
+
+'''==========================================
+    buildStudentAdditionalInfo -  Parameter(s):  list 'studentList', represents a single student's information in list form
+                                  Return type:   String that represents the compilation of all "Additional info fields" in the spreadsheet
+    (HELPER FUNCTION TO buildStudent)
+   =========================================='''
 def buildStudentAdditionalInfo(studentList):
     result = ""
     for i in range(18,39,4):
