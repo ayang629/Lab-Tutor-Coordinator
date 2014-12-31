@@ -110,7 +110,8 @@ def determineFirstTime(studentDict):
    =========================================='''
 def getResponses(studentList):
     return [studentList[12], studentList[13], studentList[14]]
-  
+
+
 '''==========================================
     buildStudentList -  Parameter(s):  dictionary 'studentDict', represents a single student's information in dictionary form
                                        list 'studentList', represents a single student's information in list form
@@ -158,5 +159,6 @@ def findEligibleDict(rawData, ineligibles):
 def findEligibleList(rawData, ineligibles):
     return [applicant for applicant in rawData
             if applicant[5] not in ineligibles]
+
 
 

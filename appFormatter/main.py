@@ -47,6 +47,7 @@ if __name__ == '__main__':
     writeIneligibles = csvFormat.getIneligibleMessages(allIneligibles) #ineligibles 
     writeEligibleReturnees = [csvFormat.buildReturningStudentString(student) for student in eligibleReturnees] #returnees
     writeEligibleFirstTimers = [csvFormat.buildFirstTimeStudentString(student) for student in eligibleFirstTimers] #first timers
+    writeLogistics = csvFormat.buildLogistics(eligiblesList, len(rawDataList), len(eligibleFirstTimers), len(eligibleReturnees), len(ineligibleIDs))
     
     
     #process of writing the three output files: ineligible students, first time candidates and returning tutors
@@ -59,6 +60,7 @@ if __name__ == '__main__':
     csvIO.writeToOutputFile(outputFileTag+'_Candidate_Tutors.txt', writeEligibleFirstTimers, "These are first-time candidates")
     print("Successfully wrote first time candidates to '{}' in outputFiles folder".format(outputFileTag+'_Candidate_Tutors.txt'))
     
-    
+    csvIO.writeLogistics(outputFileTag+'_Logistics.txt', writeLogistics)
+    print("Successfully wrote logistical details to {} in outputFiles folder".format(outputFileTag+'_Logistics.txt'))
     
 
