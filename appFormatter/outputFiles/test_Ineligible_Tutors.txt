@@ -1,0 +1,13 @@
+========================================
+These are ineligible students:
+========================================
+Colin '' McGrath
+Email: (cpmcgrat@uci.edu)
+GPA does not meet requirement
+
+=============================
+Jason 'Jason' Kreinberg
+Email: (jkreinbe@uci.edu)
+GPA does not meet requirement
+
+=============================

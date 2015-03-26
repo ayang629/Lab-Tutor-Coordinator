@@ -1,0 +1,19 @@
+==========================================================================================
+If you would like to add more details, refer to the 'buildLogistics' function in csvFormat
+==========================================================================================
+
+The following are basic Logistics:
+
+	ICS31 : 23 interested
+	ICS32 : 11 interested
+	ICS33 : 8 interested
+	ICS45C : 7 interested
+	ICS45J : 0 interested
+	ICS46 : 2 interested
+	ICS51 : 2 interested
+
+Total students applied = 38
+Total eligible students = 36
+Returning Tutors = 21
+First Time Candidates = 15
+Ineligibles: 2

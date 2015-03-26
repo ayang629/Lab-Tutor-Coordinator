@@ -27,7 +27,7 @@ if __name__ == '__main__':
     rawDataList = csvIO.readCSVFileToList('test.csv')# <------ AND HERE
     print("Successfully read input file into raw data...")
     
-    outputFileTag = input("Enter your desired output file tag (Warning - Entering a name that already exists will overwrite the file!): ")
+    outputFileTag = "test" #<------CHANGE FILE NAME HERE (No need to append the .csv part)
     
     #Gather and join ineligible tutors
     allIneligibles = csvDataHandling.findGPAIneligible(rawDataDict)  #Start with GPA ineligible tutors

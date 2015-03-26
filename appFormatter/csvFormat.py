@@ -140,15 +140,9 @@ def buildFirstTimeStudentString(student):
                                    (IMPORTANT NOTE: USES HELPER FUNCTION condenseFRQ AND MODULE FUNCTION buildReturningStudentString)
    ==============================='''    
 def buildLogistics(eligiblesList, total, first, returning, ineligibles):
-<<<<<<< HEAD
     classList = ["ICS31", "ICS32", "ICS33", "ICS45C", "ICS45J", "ICS46", "ICS51"]
     countList = []
     for i in range(15,41,4):
-=======
-    classList = ["ICS31", "ICS32", "ICS33", "ICS45C", "ICS45J", "ICS46"]
-    countList = []
-    for i in range(15,36,4):
->>>>>>> origin/master
         countList.append(getNumberInterested(eligiblesList, i))
     countDict = dict(zip(classList, countList))
     result = "The following are basic Logistics:\n\n"

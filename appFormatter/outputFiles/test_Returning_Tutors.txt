@@ -1,0 +1,223 @@
+========================================
+These are returning tutors:
+========================================
+Matthew 'Matt' Butrovich (mbutrovi@uci.edu)
+Student ID: 25985655
+Overall GPA: 3.027
+ICS GPA: 3.886
+Major: Computer Science & Engineering
+Interested Classes:
+	ICS45J (A)
+		TuThu 11AM-1PM
+	ICS46 (A+)
+		TuThu 11-1
+Additional information listed:
+I'd be tutoring for 0 units because I'm at my part-time 10-unit cap already.
+
+
+=============================
+Andy '' Chen (chenak1@uci.edu)
+Student ID: 45168779
+Overall GPA: 3.93
+ICS GPA: 3.92
+Major: Business Information Management
+Interested Classes:
+	ICS32 (A)
+		MWF 10:00-11:50a (Lab 2 or 5), MWF 12:00-1:50p (Lab 3 or 6)
+Additional information listed:
+Nothing listed
+
+=============================
+Andy 'Andy' Feng (ayfeng@uci.edu)
+Student ID: 13618358
+Overall GPA: 3.561
+ICS GPA: 3.833
+Major: Computer Science
+Interested Classes:
+	ICS32 (A)
+		MWF 10:00-11:50a (Lab 2 or 5), MWF 12:00-1:50p (Lab 3 or 6)
+	ICS33 (A)
+		TuTh 10:00-11:50p (Lab 2, 5, 8, or 12), TuTh 12:00-1:50p (Lab 3, 6, 9, 13)
+	ICS45J (A)
+		MWF Free from: 10:00AM - 1:50PM
+TuTh Free from: 10:00AM - 4:50PM
+Additional information listed:
+Nothing listed
+
+=============================
+Yijing 'Yvonne' Feng (yijingf@uci.edu)
+Student ID: 84299178
+Overall GPA: 3.5
+ICS GPA: 3.3
+Major: Computer Science
+Interested Classes:
+	ICS33 (B+)
+		TuTh 10:00-11:50p (Lab 2, 5, 8, or 12)
+Additional information listed:
+Nothing listed
+
+=============================
+Rimoun 'Rimoun' Ghaly (rghaly@uci.edu)
+Student ID: 31843989
+Overall GPA: 3.376
+ICS GPA: 3.759
+Major: Computer Science and Engineering
+Interested Classes:
+	ICS45J (N/A)
+		Monday:
+3:00 - 4:00 PM
+
+Wednesday: 
+12:00 - 2:00 PM
+3:00 - 4:00 PM
+
+Friday: 
+12:00 - 2:00 PM
+ 3:00 - 5:00 PM
+Additional information listed:
+I would prefer to tutor Monday and Wednesday 3:00-4:00 and Friday 3:00-5:00, if possible. Otherwise, I am available any of the other times.
+I will submit unofficial transcript when ICS 45C grade is released.
+
+
+=============================
+Samuel 'Sam' Lin (stlin@uci.edu)
+Student ID: 52478518
+Overall GPA: 3.597
+ICS GPA: 3.873
+Major: Biological Sciences
+Interested Classes:
+	ICS31 (A)
+		MW 4:00-5:50p (Lab 2)
+Additional information listed:
+My schedule is still not set in stone yet, as I am waiting to see if I can get into ICS 46 (currently number 4 on the waitlist). If I can get into ICS 46 then I'll be able to make is to the lab 2 time.
+
+
+=============================
+Kaiyi 'Kyle' Ma (kaiyim@uci.edu)
+Student ID: 62838370
+Overall GPA: 3.26
+ICS GPA: 3.8
+Major: Computer Science
+Interested Classes:
+	ICS46 (A)
+		M: 10am-4pm, T: 9:30am - 10:50am, 12:30pm - 5:00pm, W: 10am-4pm, T: 9:30am -10:50am, 12:30pm - 5:00pm, F: 10am-3pm
+Additional information listed:
+My ICS46 grade is not on my transcript now, but I saw my grade on the spreadsheet from professor which is an A.
+
+
+=============================
+Tim '' Nguyen (tienqn1@uci.edu)
+Student ID: 37486306
+Overall GPA: 3.45
+ICS GPA: 3.95
+Major: Computer Science
+Interested Classes:
+	ICS33 (A+)
+		TuTh 12:00-1:50p (Lab 3, 6, 9, 13), TuTh 2:00-3:50p (Lab 10 or 14)
+Additional information listed:
+I like Pattis class and did really well before in his class. I'd love to tutor this class and improve my python skills also.
+
+
+=============================
+Trung 'John' Nguyen (trungtn@uci.edu)
+Student ID: 14853167
+Overall GPA: 3.12
+ICS GPA: 3.12
+Major: Computer Science
+Interested Classes:
+	ICS32 (B+)
+		MWF 12:00-1:50p (Lab 3 or 6)
+	ICS45J (A)
+		Monday-Wednesday-Friday
+Anything between 12pm - 4pm
+Additional information listed:
+Nothing listed
+
+=============================
+Emily '' Nguyen (eonguyen@uci.edu)
+Student ID: 40995620
+Overall GPA: 3.646
+ICS GPA: 3.427
+Major: Computer Science 
+Interested Classes:
+	ICS31 (A)
+		TuTh 2:00-3:50p (Lab 1), MW 4:00-5:50p (Lab 2), MW 2:00-3:50p (Lab 8)
+Additional information listed:
+I'm also available 
+
+MW 6:00-7:50p (Lab 3)
+TuTh 2:00-3:50p (Lab 4) 
+
+even though it's not listed in the ICS 31 lab sections above, but according to WebSoc, those two lab sections are also open / students have enrolled in them. 
+N / A 
+
+
+=============================
+Alissa 'Alissa' Powers (aapowers@uci.edu)
+Student ID: 46677020
+Overall GPA: 3.6
+ICS GPA: 3.2
+Major: Computer Science and Drama
+Interested Classes:
+	ICS32 (B+)
+		MWF 10:00-11:50a (Lab 2 or 5)
+Additional information listed:
+Nothing listed
+
+=============================
+Shaurya 'Raj' Rathore (rathores@uci.edu)
+Student ID: 65212283
+Overall GPA: 3.9
+ICS GPA: 4
+Major: Computer Science
+Interested Classes:
+	ICS31 (A)
+		TuTh 4:00-5:50p (Lab 2, 5, or 7), TuTh 6:00-7:50p (Lab 3, 6, or 8)
+Additional information listed:
+Nothing listed
+
+=============================
+Neeraj '' Shah (neerajs@uci.edu)
+Student ID: 46134667
+Overall GPA: 3.899
+ICS GPA: 4
+Major: Computer Science and Engineering
+Interested Classes:
+	ICS33 (A+)
+		TuTh 12:00-1:50p (Lab 3, 6, 9, 13), TuTh 2:00-3:50p (Lab 10 or 14)
+Additional information listed:
+If I do the 2:00 - 3:50 lab, I won't be able to attend the tutoring meetings. I've tutored before, and I think Pattis or Kay mentioned that returning tutors could just skip the meetings and make up for it in some other way.
+
+
+=============================
+Tiancheng 'Frank' Xu (tianchex@uci.edu)
+Student ID: 74436321
+Overall GPA: 3.7
+ICS GPA: 4
+Major: Computer science
+Interested Classes:
+	ICS33 (A)
+		TuTh 12:00-1:50p (Lab 3, 6, 9, 13), TuTh 2:00-3:50p (Lab 10 or 14)
+Additional information listed:
+Nothing listed
+
+=============================
+Jianyu 'Jerry' Zheng (jianyuz@uci.edu)
+Student ID: 33062456
+Overall GPA: 3.169
+ICS GPA: 3.65
+Major: Computer Game Science
+Interested Classes:
+	ICS31 (A)
+		TuTh 2:00-3:50p (Lab 1), MW 8:00-9:50p (Lab 7)
+	ICS32 (A)
+		MWF 8:00-9:50a (Lab 1), MWF 10:00-11:50a (Lab 2 or 5), MWF 12:00-1:50p (Lab 3 or 6)
+	ICS33 (B+)
+		TuTh 10:00-11:50p (Lab 2, 5, 8, or 12), TuTh 2:00-3:50p (Lab 10 or 14)
+	ICS45J (B+)
+		MWF: 8:00am - 2:00pm, 6:00pm - 8:00pm
+TT: 8:00am - 12:00, 2:00pm - 5:00pm
+Additional information listed:
+Nothing listed
+
+=============================
