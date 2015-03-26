@@ -2,11 +2,12 @@
 Created on Dec 21, 2014
 
     csvFormat.py: This module handles more abstract pieces of data. Most functions involve generating simple
-                  data structures based off of cleaned up raw data generated from csvDataHandling functions
+                  data types based off of cleaned up raw data generated from csvDataHandling functions
 
     Functions Defined:
         Helper:
             condenseFRQ(response)
+            getNumberInterested(eligiblesList, index)
         Normal:
             removeDuplicates(applicantList)
             getIneligibleIDs(ineligibles)
@@ -15,6 +16,7 @@ Created on Dec 21, 2014
             getIneligibleMessages(applicantList)
             buildReturningStudentString(student)
             buildFirstTimeStudentString(student)
+            buildLogistics(eligiblesList, total, first, returning, ineligibles)
             
 @author: Andrew Yang
 '''
@@ -30,6 +32,19 @@ def condenseFRQ(response):
     for line in responseList:
         result += line + "\n"
     return result
+
+'''===================================
+   getNumberInterested - Parameter(s):  eligiblesList, a list of eligible students, each element is a list representing a single student's information
+                                        index, an integer representing which index of the student information to look at
+                         Return value:  An integer representing how many students are interested in tutoring for a certain class, denoted by index
+                                        (IMPORTANT NOTE: HELPER FUNCTION, NOT USED OUTSIDE OF csvFormat)
+   ==================================='''
+def getNumberInterested(eligiblesList, index):
+    total = 0
+    for student in eligiblesList:
+        if student[index] == "Yes":
+            total +=1
+    return total
 
 
 '''================================
@@ -113,4 +128,31 @@ def buildFirstTimeStudentString(student):
     result += "\nPrior Experiences?\n{}\nDescribe a moment...\n{}\nHow is a tutor different from a classmate?\n{}\n".format(
                condenseFRQ(student.responses[0]), condenseFRQ(student.responses[1]), condenseFRQ(student.responses[2]))
     return result   
-    
+
+ 
+'''===============================
+   buildLogistics - Parameter(s):  eligiblesList, a list of eligible students, each element is a list representing a single student's information.
+                                   total, integer representing number of applicants
+                                   first, integer representing number of first-time candidates
+                                   returning, integer representing number of returning tutors
+                                   ineligibles, integer representing number of ineligible tutors
+                    Return value:  Formatted information string to be written to an output file
+                                   (IMPORTANT NOTE: USES HELPER FUNCTION condenseFRQ AND MODULE FUNCTION buildReturningStudentString)
+   ==============================='''    
+def buildLogistics(eligiblesList, total, first, returning, ineligibles):
+    classList = ["ICS31", "ICS32", "ICS33", "ICS45C", "ICS45J", "ICS46", "ICS51"]
+    countList = []
+    for i in range(15,41,4):
+        countList.append(getNumberInterested(eligiblesList, i))
+    countDict = dict(zip(classList, countList))
+    result = "The following are basic Logistics:\n\n"
+    for key, value in sorted(countDict.items()):
+        result += "\t{} : {} interested\n".format(key, value)
+    result += "\nTotal students applied = {}\nTotal eligible students = {}\n".format(total, len(eligiblesList))
+    result += "Returning Tutors = {}\nFirst Time Candidates = {}\nIneligibles: {}".format(
+        first, returning, ineligibles)
+    return result
+                        
+        
+                                
+        

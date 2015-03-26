@@ -41,15 +41,10 @@ Student = namedtuple('Student', 'name email id major gpa classes info firstTime 
     (HELPER FUNCTION TO buildStudent)
    =========================================='''
 def buildStudentClassInterest(studentDict, studentList): #EDIT THIS FUNCTION WHEN 45J COMES UP AND/OR APPLICATION FORM CHANGES
-    classList = ["ICS31", "ICS32", "ICS33", "ICS45J", "ICS45C", "ICS46"]
+    classList = ["ICS31", "ICS32", "ICS33", "ICS45J", "ICS45C", "ICS46", "ICS51"]
     gradeDict = {}
     increment = 0
-    for i in range(15,24,4):
-        if studentList[i] == "Yes":
-            gradeDict[classList[increment]] = [studentList[i+1], studentList[i+2]]
-        increment += 1
-    increment += 1 #skip past 45J
-    for i in range(27,36,8):
+    for i in range(15,41,4):
         if studentList[i] == "Yes":
             gradeDict[classList[increment]] = [studentList[i+1], studentList[i+2]]
         increment += 1
@@ -63,11 +58,9 @@ def buildStudentClassInterest(studentDict, studentList): #EDIT THIS FUNCTION WHE
    =========================================='''
 def buildStudentAdditionalInfo(studentList):
     result = ""
-    for i in range(18,39,4):
+    for i in range(18,43,4):
         if studentList[i] != "":
             result += studentList[i] + "\n"
-    if studentList[39] != "":
-        result += studentList[39] + "\n"
     if result == "":
         result = "Nothing listed"
     return result
@@ -110,7 +103,8 @@ def determineFirstTime(studentDict):
    =========================================='''
 def getResponses(studentList):
     return [studentList[12], studentList[13], studentList[14]]
-  
+
+
 '''==========================================
     buildStudentList -  Parameter(s):  dictionary 'studentDict', represents a single student's information in dictionary form
                                        list 'studentList', represents a single student's information in list form
@@ -158,5 +152,6 @@ def findEligibleDict(rawData, ineligibles):
 def findEligibleList(rawData, ineligibles):
     return [applicant for applicant in rawData
             if applicant[5] not in ineligibles]
+
 
 

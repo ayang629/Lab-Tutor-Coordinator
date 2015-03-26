@@ -6,6 +6,7 @@ Created on Dec 21, 2014
     Functions inside:
         readCSVFileToDict(fileName)
         readCSVFileToList(fileName)
+        writeLogistics(fileName, information)
         writeToOutputFile(fileName, information, kind)
 
 @author: Andrew Yang
@@ -48,6 +49,25 @@ def readCSVFileToList(fileName):
         print("Unknown Error. Debug in readCSVFileToList function in csvDataHandling.py")
 
 
+'''==============================
+   writeLogistics - Parameter(s):  String 'fileName', represents name of CSV file to write
+                                   String 'information', represents string of logistical details to write to file
+                    Return type:   None, but output files should be created in /outputFiles directory
+   =============================='''
+def writeLogistics(fileName, information):
+    initialDirectory = os.getcwd()
+    os.chdir('outputFiles')
+    try:
+        writeFile = open(fileName, 'w')
+        writeFile.write("==========================================================================================\n")
+        writeFile.write("If you would like to add more details, refer to the 'buildLogistics' function in csvFormat\n")
+        writeFile.write("==========================================================================================\n\n")
+        writeFile.write(information)
+    finally:
+        writeFile.close()
+        os.chdir(initialDirectory)
+
+
 '''================================
    writeToOutputFile - Parameter(s):  String 'fileName', represents name of CSV file to write
                                       list 'information', each element is a formatted string containing tutor 
@@ -67,6 +87,4 @@ def writeToOutputFile(fileName, information, kind):
     finally:
         writeFile.close()
         os.chdir(initialDirectory)
-
-
     
