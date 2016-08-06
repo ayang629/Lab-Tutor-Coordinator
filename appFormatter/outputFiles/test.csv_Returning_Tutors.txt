@@ -1,0 +1,341 @@
+========================================
+These are returning tutors:
+========================================
+Curtis 'Curtis' Babin (cbabin@uci.edu)
+Student ID: 33243958
+Overall GPA: 3.156
+ICS GPA: 3.105
+Major: Computer Science
+Interested Classes:
+	ICS31 (B-)
+		MW 4:00-5:50p (Lab 6), MW 6:00-7:50p (Lab 7)
+	ICS45J (B+)
+		Currently I am available any day after 3pm.
+Additional information listed:
+Yes
+
+
+=============================
+Victor '' Chang (vachang@uci.edu)
+Student ID: 78741845
+Overall GPA: 3.769
+ICS GPA: 3.75
+Major: CSE
+Interested Classes:
+	ICS33 (A)
+		TuTh 10:00-11:50a (Lab 4, 5, 6), TuTh 12:00-1:50p (Lab 7, 8, 9)
+Additional information listed:
+Preferably 10-12 session over 12-2
+No
+
+
+=============================
+Kevin  '' Chow  (chowk3@uci.edu @uci.edu)
+Student ID: 32497023
+Overall GPA: 3.76
+ICS GPA: 3.65
+Major: Computer Science 
+Interested Classes:
+	ICS32 (A-)
+		MWFÂ 12:00-1:50p (Lab 3), MWF 6:00-7:50p (Lab 7)
+Additional information listed:
+No
+
+
+=============================
+Rushabh 'Rushabh' Dalwadi (rdalwadi@uci.edu)
+Student ID: 66644893
+Overall GPA: 3.43
+ICS GPA: 3.6
+Major: Computer Science
+Interested Classes:
+	ICS33 (A)
+		TuTh 12:00-1:50p (Lab 7, 8, 9), TuTh 2:00-3:50p (Lab 10, 11, 12)
+Additional information listed:
+No
+
+
+=============================
+Rushabh 'Rushabh' Dalwadi (rdalwadi@uci.edu)
+Student ID: 66644893
+Overall GPA: 3.43
+ICS GPA: 3.6
+Major: Computer Science
+Interested Classes:
+	ICS33 (A)
+		TuTh 12:00-1:50p (Lab 7, 8, 9), TuTh 2:00-3:50p (Lab 10, 11, 12)
+	ICS45J (A)
+		Tuesday , Thursday 1 pm - 3 pm
+Additional information listed:
+No
+
+
+=============================
+Noah  '' Djenguerian (ndjengue@uci.edu)
+Student ID: 26957883
+Overall GPA: 3.68
+ICS GPA: 4
+Major: Computer Science and Engineering
+Interested Classes:
+	ICS31 (A)
+		MW 10:00-11:50a (Lab 2), MW 2:00-3:50p (Lab 5), MW 6:00-7:50p (Lab 7)
+	ICS32 (A)
+		MWFÂ 10:00-11:50a (Lab 2), MWF 6:00-7:50p (Lab 7)
+	ICS33 (A)
+		TuTh 2:00-3:50p (Lab 10, 11, 12)
+	ICS45J (A)
+		Monday: 10-12:50, 2-4:50, 6-MidnightTuesday: 9:30-10:50, 12:30-4:50Wednesday: 10-12:50, 2-MidnightThursday: 9:30-10:50, 12:30-4:50Friday: 10-11:50, 3-Midnight
+Additional information listed:
+No
+
+
+=============================
+Raelene '' Gonzales (raeleneg@uci.edu)
+Student ID: 25246708
+Overall GPA: 2.994
+ICS GPA: 2.919
+Major: Computer Science
+Interested Classes:
+	ICS31 (B+)
+		MW 12:00-1:50p (Lab 3, 4)
+	ICS33 (B+)
+		TuTh 2:00-3:50p (Lab 10, 11, 12)
+	ICS45J (C)
+		Mondays - 11 AM - 2PMTuesdays - after 3:20 PMWednesdays- 11 AM - 2PMThursdays - after 3:20 PM
+	ICS46 (B)
+		Mondays - 11 AM - 2PMTuesdays - After 3:20 PMWednedays - 11 AM - 2PMThursdays - After 3:30 PM
+Additional information listed:
+I got 100% on all labs for this class, but suffered in final.
+I prefer 45C, and would see myself as a tutor in that class.
+No
+
+
+=============================
+Brian '' Huynh (bbhuynh@uci.edu)
+Student ID: 57641580
+Overall GPA: 3.265
+ICS GPA: 3.325
+Major: Computer Science
+Interested Classes:
+	ICS32 (B+)
+		MWF 8:00-9:50a (Lab 1), MWFÂ 12:00-1:50p (Lab 3)
+	ICS33 (B)
+		TuTh 8:00-9:50a (Lab 1, 2, 3), TuTh 12:00-1:50p (Lab 7, 8, 9), TuTh 2:00-3:50p (Lab 10, 11, 12)
+Additional information listed:
+I would like ICS 32 to be my first choice instead of ICS 33 because I have a deeper understanding of ICS 32 than ICS 33. I prefer tutoring ICS 32 because I would like to review my object-oriented design skills for large projects.
+No
+
+
+=============================
+Arshia '' Kamali (akamalid@uci.edu)
+Student ID: 84344861
+Overall GPA: 3.565
+ICS GPA: 3.727
+Major: SOftware Engineering
+Interested Classes:
+	ICS31 (A+)
+		MW 12:00-1:50p (Lab 3, 4)
+	ICS45J (A)
+		Mondays: 12:20pm - 2:00pmTuesdays: 11:00am - 1:00pmWednesdays: 12:20pm-2:00pmThursdays: 11:00am - 1:00pmFridays: N/A
+	ICS51 (MW 12:00- 1:50p (Lab 3), TuTh 6:00-7:50p (Lab 7))
+		
+Additional information listed:
+One of my classes ends at 12:20 on Monday and Wednesdays, so I will be able to go to the above lab sections about 20 minutes after it begins.
+I am taking this class right now, and I am expecting a grade of A based on my current performance in the course.
+No
+
+
+=============================
+Ji Yeon '' Kim (jykim6@uci.edu)
+Student ID: 76016716
+Overall GPA: 3.368
+ICS GPA: 3.2
+Major: Computer Science and Engineering
+Interested Classes:
+	ICS31 (A)
+		MW 12:00-1:50p (Lab 3, 4), MW 2:00-3:50p (Lab 5), MW 4:00-5:50p (Lab 6)
+Additional information listed:
+Hello, I would highly prefer the 4-6pm lab session. Thank you.
+No
+
+
+=============================
+Zhuohan 'John' Li (zhuohal1@uci.edu)
+Student ID: 59163334
+Overall GPA: 3.197
+ICS GPA: 3.355
+Major: Computer Science
+Interested Classes:
+	ICS45J (A)
+		Available MWF 8am-12pm, TuTh 11am-2pm
+Additional information listed:
+No
+
+
+=============================
+Haoming '' Li (haominl1@uci.edu)
+Student ID: 20426226
+Overall GPA: 3.429
+ICS GPA: 3.378
+Major: Computer Science
+Interested Classes:
+	ICS31 (A)
+		MW 10:00-11:50a (Lab 2), MW 2:00-3:50p (Lab 5)
+Additional information listed:
+No
+
+
+=============================
+Anthony '' Luong (luongad1@uci.edu)
+Student ID: 95736658
+Overall GPA: 2.997
+ICS GPA: 2.959
+Major: Computer Science
+Interested Classes:
+	ICS33 (A-)
+		TuTh 10:00-11:50a (Lab 4, 5, 6), TuTh 12:00-1:50p (Lab 7, 8, 9)
+Additional information listed:
+No
+
+
+=============================
+Justin '' Mogannam (mogannaj@uci.edu)
+Student ID: 60894925
+Overall GPA: 2.89
+ICS GPA: 3.07
+Major: Computer Science
+Interested Classes:
+	ICS31 (B-)
+		MW 12:00-1:50p (Lab 3, 4)
+	ICS32 (B-)
+		MWFÂ 12:00-1:50p (Lab 3)
+	ICS33 (A)
+		TuTh 8:00-9:50a (Lab 1, 2, 3)
+	ICS45J (B)
+		Monday, Wednesday, Friday between 11:00am - 1:00pmTuesday/Thursday: before 11:00am
+	ICS46 (C)
+		Mon, Wed, Fri between 11:00am - 1:00pmTue/Thurs before 11:00am
+	ICS51 (MW 12:00- 1:50p (Lab 3))
+		
+Additional information listed:
+No
+
+
+=============================
+Omar '' Morales (moraleo1@uci.edu)
+Student ID: 81036550
+Overall GPA: 2.6
+ICS GPA: 2.8
+Major: Computer Science
+Interested Classes:
+	ICS31 (A-)
+		MW 12:00-1:50p (Lab 3, 4), MW 2:00-3:50p (Lab 5)
+	ICS32 (B-)
+		MWFÂ 12:00-1:50p (Lab 3), MWF 2:00-3:50p (Lab 4, 5)
+	ICS45J (B+)
+		I am freeMWF: 12-4pmT,TH: 10-12pm
+Additional information listed:
+No
+
+
+=============================
+Tien Quang 'Tim' Nguyen (tienqn1@uci.edu@uci.edu)
+Student ID: 37486306
+Overall GPA: 3.594
+ICS GPA: 3.856
+Major: Computer Science
+Interested Classes:
+	ICS46 (A+)
+		M-W-F: 10am-1pmT-T: 2pm-4pm
+Additional information listed:
+I took 46 with Thornton before and I liked the class. I'd like to help him this quarter
+No
+
+
+=============================
+Phi 'Phi' Nguyen (philn1@uci.edu)
+Student ID: 47604490
+Overall GPA: 3.2
+ICS GPA: 3.3
+Major: Computer science
+Interested Classes:
+	ICS33 (A-)
+		TuTh 8:00-9:50a (Lab 1, 2, 3), TuTh 4:00-5:50p (Lab 13, 14)
+Additional information listed:
+Yes
+
+
+=============================
+Binh '' Nguyen (binhnn1@uci.edu)
+Student ID: 34707912
+Overall GPA: 3.89
+ICS GPA: 4
+Major: Computer Science & Engineering
+Interested Classes:
+	ICS46 (A)
+		Mon, Wed: 	09:30AM - 12:50PMTue, Thu: 	09:30AM - 10:50AM		        12:30PM - 03:00PMFri:		        11:00AM - 12:50PM
+Additional information listed:
+No
+
+
+=============================
+Huy '' Pham (hdpham1@uci.edu)
+Student ID: 64849059
+Overall GPA: 3.267
+ICS GPA: 3.63
+Major: Computer Science
+Interested Classes:
+	ICS31 (A)
+		MW 6:00-7:50p (Lab 7)
+	ICS32 (A)
+		MWF 6:00-7:50p (Lab 7)
+	ICS33 (A)
+		TuTh 12:00-1:50p (Lab 7, 8, 9), TuTh 2:00-3:50p (Lab 10, 11, 12), TuTh 4:00-5:50p (Lab 13, 14)
+Additional information listed:
+No
+
+
+=============================
+keshab '' sharma (keshabs@uci.edu)
+Student ID: 58193382
+Overall GPA: 3.9
+ICS GPA: 4
+Major: Computer Science
+Interested Classes:
+	ICS45J (A+)
+		MWF 1-4 (maybe upto 5:30 depending whether one of my labs is mandatory or not)TTh 1-10:00pm
+Additional information listed:
+No
+
+
+=============================
+Neilson '' Wong (neilsonw@uci.edu)
+Student ID: 66536239
+Overall GPA: 2.996
+ICS GPA: 2.871
+Major: Computer Science
+Interested Classes:
+	ICS46 (B+)
+		MW 12pm-6pmTu 12:30pm-5pmTh 12:30pm-4pm
+Additional information listed:
+Yes
+
+
+=============================
+Zhaohua 'Jenny' Zeng (zhaohuaz@uci.edu)
+Student ID: 52082740
+Overall GPA: 3.566
+ICS GPA: 3.646
+Major: Computer Science
+Interested Classes:
+	ICS31 (A-)
+		MW 2:00-3:50p (Lab 5), MW 4:00-5:50p (Lab 6)
+	ICS33 (A+)
+		TuTh 12:00-1:50p (Lab 7, 8, 9), TuTh 2:00-3:50p (Lab 10, 11, 12)
+	ICS45J (A-)
+		Monday: after 2:00Tuesday: 1:00-4:00Wednesday: 2:00-4:00Thursday: 1:00-4:00Friday: after 2:00
+Additional information listed:
+No
+
+
+=============================

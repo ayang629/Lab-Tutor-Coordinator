@@ -1,0 +1,48 @@
+========================================
+These are ineligible students:
+========================================
+Rushabh '' Shah
+Email: (rushabhs@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Yicong 'James' Huang
+Email: (yicongh1@uci.edu)
+GPA does not meet requirement
+
+=============================
+Jiajia 'Janine' Zheng
+Email: (jiajiaz@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Kush 'Kush' Dave
+Email: (kkdave@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Avelino 'Al' Miranda
+Email: (acmirand@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Micah 'Micah' Rutrough
+Email: (mrutroug@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Darshan 'Darshan' Parajuli
+Email: (dparajul@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Matt 'Kenneth' Legaspi
+Email: (mklegasp@uci.edu)
+First time tutor that cannot attend ICS 193
+
+=============================
+Jesse 'Jesse' Villanueva
+Email: (jessev1@uci.edu)
+GPA does not meet requirement
+
+=============================

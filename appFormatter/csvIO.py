@@ -21,7 +21,7 @@ import os
    ================================'''
 def readCSVFileToDict(fileName):
     try:
-        csvFile = open(os.path.join('inputFiles', fileName))
+        csvFile = open(fileName)
         reader = csv.DictReader(csvFile)
         dictList = [applicant for applicant in reader]
         return dictList
@@ -38,7 +38,7 @@ def readCSVFileToDict(fileName):
    ================================'''
 def readCSVFileToList(fileName):
     try:
-        csvFile = open(os.path.join('inputFiles', fileName))
+        csvFile = open(fileName)
         reader = csv.reader(csvFile)
         next(reader)
         dictList = [applicant for applicant in reader]
@@ -55,17 +55,12 @@ def readCSVFileToList(fileName):
                     Return type:   None, but output files should be created in /outputFiles directory
    =============================='''
 def writeLogistics(fileName, information):
-    initialDirectory = os.getcwd()
-    os.chdir('outputFiles')
-    try:
-        writeFile = open(fileName, 'w')
-        writeFile.write("==========================================================================================\n")
-        writeFile.write("If you would like to add more details, refer to the 'buildLogistics' function in csvFormat\n")
-        writeFile.write("==========================================================================================\n\n")
-        writeFile.write(information)
-    finally:
-        writeFile.close()
-        os.chdir(initialDirectory)
+    writeFile = open(os.path.join('outputFiles', fileName.split("/")[-1]), 'w')
+    writeFile.write("==========================================================================================\n")
+    writeFile.write("If you would like to add more details, refer to the 'buildLogistics' function in csvFormat\n")
+    writeFile.write("==========================================================================================\n\n")
+    writeFile.write(information)
+    writeFile.close()
 
 
 '''================================
@@ -76,15 +71,11 @@ def writeLogistics(fileName, information):
                        Return type:   None, but output files should be created in /outputFiles directory
    ================================'''
 def writeToOutputFile(fileName, information, kind):
-    initialDirectory = os.getcwd()
-    os.chdir('outputFiles')
-    try:
-        writeFile = open(fileName, 'w')
-        writeFile.write("========================================\n{}:\n========================================\n".format(kind))
-        for line in information:
-            writeFile.write(line)
-            writeFile.write("\n=============================\n")
-    finally:
-        writeFile.close()
-        os.chdir(initialDirectory)
+    writeFile = open(os.path.join('outputFiles', fileName.split("/")[-1]), 'w')
+    writeFile.write("========================================\n{}:\n========================================\n".format(kind))
+    for line in information:
+        writeFile.write(line)
+        writeFile.write("\n=============================\n")
+    writeFile.close()
+
     
